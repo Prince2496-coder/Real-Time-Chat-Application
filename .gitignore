@@ -1,0 +1,13 @@
+# Frontend
+front-chat/node_modules/
+front-chat/dist/
+
+# Backend
+back-end/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
